@@ -1,1 +1,3 @@
-https://github.com/GordeevKV/fuzzy-giggle.git  - ссылка на депозиторий
+https://github.com/GordeevKV/fuzzy-giggle.git  - ссылка на репозитарий
+логин - gkv2312@yandex.ru
+пароль - Akinfeev#35
